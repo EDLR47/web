@@ -1,0 +1,46 @@
+body{
+    background-color: #012;
+}
+
+.presentacion{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: gray
+}
+
+.ListaDeTemas{
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9px;
+} 
+
+li a{
+    display: block;
+    text-align: left;
+    padding: 14px 19.9px;
+    text-decoration: none;
+    color: gray;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(42, 48, 48, 0.333);
+}
+li{
+    float: left;
+}
+
+li a:hover{
+    background-color: #012;
+}
+
+.parrafo{
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+}
+
